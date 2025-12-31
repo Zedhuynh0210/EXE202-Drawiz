@@ -1,0 +1,29 @@
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.deps.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.runtimeconfig.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.csproj.AssemblyReference.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.AssemblyInfoInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.AssemblyInfo.cs
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.csproj.CoreCompileInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\refint\DrawWiz.Domain.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.genruntimeconfig.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\ref\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.deps.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.runtimeconfig.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.csproj.AssemblyReference.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.AssemblyInfoInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.AssemblyInfo.cs
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.csproj.CoreCompileInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.sourcelink.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\refint\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\DrawWiz.Domain.genruntimeconfig.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Domain\obj\Debug\net8.0\ref\DrawWiz.Domain.dll

@@ -1,0 +1,35 @@
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.deps.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Application.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Application.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.AssemblyInfo.cs
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz..578E8281.Up2Date
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\refint\DrawWiz.Infrastructure.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\ref\DrawWiz.Infrastructure.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.deps.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Application.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Application.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.csproj.AssemblyReference.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.AssemblyInfoInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.AssemblyInfo.cs
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.sourcelink.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz..578E8281.Up2Date
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\refint\DrawWiz.Infrastructure.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.Infrastructure\obj\Debug\net8.0\ref\DrawWiz.Infrastructure.dll

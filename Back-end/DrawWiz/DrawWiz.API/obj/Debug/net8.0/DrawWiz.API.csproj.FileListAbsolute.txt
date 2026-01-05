@@ -1,0 +1,193 @@
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.staticwebassets.endpoints.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.exe
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\appsettings.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.deps.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.runtimeconfig.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\AutoMapper.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Azure.Core.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.Core.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Spatial.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Application.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Application.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.csproj.AssemblyReference.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.AssemblyInfoInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.AssemblyInfo.cs
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.csproj.CoreCompileInputs.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\scopedcss\bundle\DrawWiz.API.styles.css
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz..EC6F7C0D.Up2Date
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\refint\DrawWiz.API.dll
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.pdb
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.genruntimeconfig.cache
+D:\New folder (2)\New folder (2)\DrawWiz\DrawWiz.API\obj\Debug\net8.0\ref\DrawWiz.API.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\appsettings.Development.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.staticwebassets.endpoints.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.exe
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\appsettings.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.deps.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.runtimeconfig.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.API.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\AutoMapper.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Azure.Core.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.Core.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Spatial.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Application.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Domain.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Infrastructure.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Application.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Infrastructure.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\bin\Debug\net8.0\DrawWiz.Domain.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.csproj.AssemblyReference.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.AssemblyInfoInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.AssemblyInfo.cs
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.csproj.CoreCompileInputs.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.sourcelink.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\scopedcss\bundle\DrawWiz.API.styles.css
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz..EC6F7C0D.Up2Date
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\refint\DrawWiz.API.dll
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.pdb
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\DrawWiz.API.genruntimeconfig.cache
+D:\DrawWiz\Back-end\DrawWiz\DrawWiz.API\obj\Debug\net8.0\ref\DrawWiz.API.dll

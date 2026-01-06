@@ -1,15 +1,14 @@
 import React from 'react';
 import { View, StyleSheet, ScrollView, Image } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
-import Logo from './Logo';
 import AppTitle from './AppTitle';
 import Tagline from './Tagline';
 import GradientButton from './GradientButton';
 import Copyright from './Copyright';
 
-const HomeScreen = () => {
-  const logo1 = require('../assets/logo2.png');
-  const logo2 = require('../assets/logo1.png');
+const HomeScreen = ({ navigation }) => {
+  const logo1 = require('../../assets/logo2.png');
+  const logo2 = require('../../assets/logo1.png');
   
   return (
     <LinearGradient
@@ -23,10 +22,13 @@ const HomeScreen = () => {
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}
       >
-        <Logo 
-          logo1Source={logo1} 
-          showBoth={false}
-        />
+        <View style={styles.logo1Container}>
+          <Image 
+            source={logo1} 
+            style={styles.logo1Image} 
+            resizeMode="contain"
+          />
+        </View>
         <AppTitle />
         <Tagline />
         <View style={styles.logo2Container}>
@@ -39,8 +41,7 @@ const HomeScreen = () => {
         <GradientButton 
           title="Bắt đầu"
           onPress={() => {
-            // Xử lý khi nhấn button
-            console.log('Đăng nhập được nhấn');
+            navigation?.navigate('Login');
           }}
         />
         <Copyright />
@@ -58,14 +59,26 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 20,
   },
+  logo1Container: {
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginTop: 40,
+    marginBottom: 20,
+  },
+  logo1Image: {
+    width: 120,
+    height: 120,
+  },
   logo2Container: {
     alignItems: 'center',
     justifyContent: 'center',
     marginTop: 20,
     marginBottom: 30,
+    width: '100%',
   },
   logo2Image: {
-    width: 400,
+    width: '100%',
+    maxWidth: 400,
     height: 400,
   },
 });

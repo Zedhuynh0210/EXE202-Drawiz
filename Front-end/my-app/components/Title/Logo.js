@@ -23,7 +23,7 @@ const Logo = ({ logo1Source, logo2Source, showBoth = false }) => {
   }
 
   // Hiển thị logo chính (logo1 hoặc logo mặc định)
-  const logoSource = logo1Source || require('../assets/logo1.png');
+  const logoSource = logo1Source || require('../../assets/logo1.png');
   
   return (
     <View style={styles.container}>

@@ -196,7 +196,11 @@ const AccountScreen = ({ navigation }) => {
                   <View style={styles.filledSlot} />
                 ) : (
                   <View style={styles.emptySlot}>
-                    <ImageIcon />
+                    <Image
+                      source={require('../../assets/alb1.png')}
+                      style={styles.albumIcon}
+                      resizeMode="contain"
+                    />
                   </View>
                 )}
               </View>
@@ -217,7 +221,11 @@ const AccountScreen = ({ navigation }) => {
                   <View style={styles.filledSlot} />
                 ) : (
                   <View style={styles.emptySlot}>
-                    <ImageIcon />
+                    <Image
+                      source={require('../../assets/alb1.png')}
+                      style={styles.albumIcon}
+                      resizeMode="contain"
+                    />
                   </View>
                 )}
               </View>
@@ -232,7 +240,11 @@ const AccountScreen = ({ navigation }) => {
             <Text style={styles.albumCount}>0/5</Text>
           </View>
           <View style={styles.emptyAlbumContainer}>
-            <EmptyAlbumIcon />
+            <Image
+              source={require('../../assets/alb2.png')}
+              style={styles.emptyAlbumIcon}
+              resizeMode="contain"
+            />
             <Text style={styles.emptyAlbumText}>Album trống</Text>
           </View>
         </View>
@@ -459,10 +471,18 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  albumIcon: {
+    width: 40,
+    height: 40,
+  },
   emptyAlbumContainer: {
     alignItems: 'center',
     justifyContent: 'center',
     paddingVertical: 40,
+  },
+  emptyAlbumIcon: {
+    width: 80,
+    height: 80,
   },
   emptyAlbumText: {
     fontSize: 14,

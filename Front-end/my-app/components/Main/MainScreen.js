@@ -32,7 +32,7 @@ const MainScreen = ({ navigation }) => {
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}
       >
-        <Header userName="User" />
+                <Header userName="User" navigation={navigation} />
         
         <FeatureCard
           title="Vẽ bình thường"

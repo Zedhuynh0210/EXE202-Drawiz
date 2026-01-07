@@ -386,8 +386,10 @@ const styles = StyleSheet.create({
     paddingVertical: 16,
   },
   iconContainer: {
-    width: 24,
-    height: 24,
+    width: 40,
+    height: 40,
+    borderRadius: 12,
+    backgroundColor: 'rgba(139, 92, 246, 0.1)',
     marginRight: 16,
     alignItems: 'center',
     justifyContent: 'center',

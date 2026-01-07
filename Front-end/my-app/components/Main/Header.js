@@ -4,7 +4,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import Svg, { Defs, LinearGradient as SvgLinearGradient, Stop, Text as SvgText } from 'react-native-svg';
 import MenuDrawer from './MenuDrawer';
 
-const Header = ({ userName = 'User' }) => {
+const Header = ({ userName = 'User', navigation }) => {
   const userInitial = userName.charAt(0).toUpperCase();
   const [menuVisible, setMenuVisible] = useState(false);
   // Tạo unique ID cho gradient để tránh conflict khi có nhiều instance
@@ -12,6 +12,11 @@ const Header = ({ userName = 'User' }) => {
 
   const handleMenuItemPress = (itemId) => {
     console.log('Menu item pressed:', itemId);
+    if (itemId === 'settings') {
+      navigation?.navigate('Settings');
+    } else if (itemId === 'account') {
+      navigation?.navigate('Account');
+    }
     // Xử lý logic cho từng menu item ở đây
   };
 

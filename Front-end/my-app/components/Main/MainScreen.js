@@ -11,13 +11,11 @@ const MainScreen = ({ navigation }) => {
   };
 
   const handleAdultMode = () => {
-    // Navigate to Adult Mode screen
-    console.log('Navigate to Adult Mode');
+    navigation?.navigate('AdultMode');
   };
 
   const handleKidsMode = () => {
-    // Navigate to Kids Mode screen
-    console.log('Navigate to Kids Mode');
+    navigation?.navigate('KidsMode');
   };
 
   return (

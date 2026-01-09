@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
-import Svg, { Defs, LinearGradient as SvgLinearGradient, Stop, Text as SvgText } from 'react-native-svg';
+import Svg, { Defs, LinearGradient as SvgLinearGradient, Stop, Text as SvgText, Path } from 'react-native-svg';
 import MenuDrawer from './MenuDrawer';
 
 const Header = ({ userName = 'User', navigation }) => {
@@ -9,6 +9,27 @@ const Header = ({ userName = 'User', navigation }) => {
   const [menuVisible, setMenuVisible] = useState(false);
   // Tạo unique ID cho gradient để tránh conflict khi có nhiều instance
   const gradientId = useMemo(() => `headerGradient-${Math.random().toString(36).substr(2, 9)}`, []);
+
+  const CrownIcon = () => (
+    <Svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+      <Path
+        d="M5 16L3 5L8.5 10L12 4L15.5 10L21 5L19 16H5Z"
+        fill="#8B5CF6"
+        stroke="#8B5CF6"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <Path
+        d="M5 16H19V20H5V16Z"
+        fill="#8B5CF6"
+        stroke="#8B5CF6"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </Svg>
+  );
 
   const handleMenuItemPress = (itemId) => {
     console.log('Menu item pressed:', itemId);
@@ -47,20 +68,26 @@ const Header = ({ userName = 'User', navigation }) => {
         </View>
         <Text style={styles.tagline}>Vẽ, sáng tạo, khám phá</Text>
       </View>
-      <TouchableOpacity 
-        style={styles.userIconContainer}
-        onPress={() => setMenuVisible(true)}
-        activeOpacity={0.8}
-      >
-        <LinearGradient
-          colors={['#A78BFA', '#F472B6']}
-          start={{ x: 0, y: 0 }}
-          end={{ x: 1, y: 1 }}
-          style={styles.userIcon}
+      <View style={styles.rightSection}>
+        <TouchableOpacity style={styles.upgradeButton} activeOpacity={0.8}>
+          <CrownIcon />
+          <Text style={styles.upgradeText}>Nâng cấp</Text>
+        </TouchableOpacity>
+        <TouchableOpacity 
+          style={styles.userIconContainer}
+          onPress={() => setMenuVisible(true)}
+          activeOpacity={0.8}
         >
-          <Text style={styles.userInitial}>{userInitial}</Text>
-        </LinearGradient>
-      </TouchableOpacity>
+          <LinearGradient
+            colors={['#A78BFA', '#F472B6']}
+            start={{ x: 0, y: 0 }}
+            end={{ x: 1, y: 1 }}
+            style={styles.userIcon}
+          >
+            <Text style={styles.userInitial}>{userInitial}</Text>
+          </LinearGradient>
+        </TouchableOpacity>
+      </View>
       <MenuDrawer
         visible={menuVisible}
         onClose={() => setMenuVisible(false)}
@@ -94,6 +121,27 @@ const styles = StyleSheet.create({
   tagline: {
     fontSize: 14,
     color: '#9CA3AF',
+  },
+  rightSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  upgradeButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFFFFF',
+    borderWidth: 1,
+    borderColor: '#E0E7FF',
+    borderRadius: 12,
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    gap: 6,
+  },
+  upgradeText: {
+    fontSize: 14,
+    color: '#374151',
+    fontWeight: '500',
   },
   userIconContainer: {
     width: 40,

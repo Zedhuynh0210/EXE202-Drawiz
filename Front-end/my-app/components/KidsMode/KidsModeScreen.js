@@ -125,8 +125,8 @@ const KidsModeScreen = ({ navigation }) => {
   );
 
   const handleCreateKidsAccount = () => {
-    // Navigate to kids account creation
-    console.log('Create kids account');
+    // Navigate to kids account registration
+    navigation?.navigate('KidsRegister');
   };
 
   const handleContinueBasic = () => {

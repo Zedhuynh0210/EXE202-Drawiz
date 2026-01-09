@@ -10,6 +10,9 @@ import SettingsScreen from './components/Settings/SettingsScreen';
 import AccountScreen from './components/Account/AccountScreen';
 import AdultModeScreen from './components/AdultMode/AdultModeScreen';
 import KidsModeScreen from './components/KidsMode/KidsModeScreen';
+import KidsRegisterScreen from './components/KidsMode/KidsRegisterScreen';
+import KidsCreateAccountScreen from './components/KidsMode/KidsCreateAccountScreen';
+import KidsHomeScreen from './components/KidsMode/KidsHomeScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -31,6 +34,9 @@ export default function App() {
         <Stack.Screen name="Account" component={AccountScreen} />
         <Stack.Screen name="AdultMode" component={AdultModeScreen} />
         <Stack.Screen name="KidsMode" component={KidsModeScreen} />
+        <Stack.Screen name="KidsRegister" component={KidsRegisterScreen} />
+        <Stack.Screen name="KidsCreateAccount" component={KidsCreateAccountScreen} />
+        <Stack.Screen name="KidsHome" component={KidsHomeScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );

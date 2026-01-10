@@ -1,11 +1,12 @@
-import React from 'react';
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Platform, Image, ActivityIndicator } from 'react-native';
+import React, { useState } from 'react';
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Platform, Image, ActivityIndicator, Modal } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import Svg, { Path, Circle } from 'react-native-svg';
 import Header from '../Main/Header';
 
 const KidsHomeScreen = ({ navigation }) => {
   const userName = 'User';
+  const [showTokenModal, setShowTokenModal] = useState(false);
 
   const WizardIcon = () => (
     <Svg width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -74,7 +75,11 @@ const KidsHomeScreen = ({ navigation }) => {
                 <Text style={styles.tokenBalance}>5/5</Text>
               </View>
             </View>
-            <TouchableOpacity style={styles.buyButton} activeOpacity={0.8}>
+            <TouchableOpacity 
+              style={styles.buyButton} 
+              activeOpacity={0.8}
+              onPress={() => setShowTokenModal(true)}
+            >
               <Text style={styles.buyButtonText}>Mua thêm</Text>
             </TouchableOpacity>
           </View>
@@ -120,7 +125,11 @@ const KidsHomeScreen = ({ navigation }) => {
           </TouchableOpacity>
 
           {/* Tham gia Thử thách Card */}
-          <TouchableOpacity style={styles.featureCard} activeOpacity={0.9}>
+          <TouchableOpacity 
+            style={styles.featureCard} 
+            activeOpacity={0.9}
+            onPress={() => navigation?.navigate('Challenge')}
+          >
             <LinearGradient
               colors={['#FDC89E', '#F9B9DB', '#E0C1FC']}
               start={{ x: 0, y: 0 }}
@@ -155,10 +164,74 @@ const KidsHomeScreen = ({ navigation }) => {
         <View style={styles.updateSection}>
           <View style={styles.updateContent}>
             <ActivityIndicator size="large" color="#FFFFFF" />
-            <Text style={styles.updateText}>Đang cập nhật</Text>
+            <Text style={styles.updateText}>Cập nhật sau</Text>
           </View>
         </View>
       </ScrollView>
+
+      {/* Token Purchase Modal */}
+      <Modal
+        visible={showTokenModal}
+        transparent={true}
+        animationType="fade"
+        onRequestClose={() => setShowTokenModal(false)}
+      >
+        <View style={styles.modalOverlay}>
+          <View style={styles.modalContent}>
+            {/* Close Button */}
+            <TouchableOpacity
+              style={styles.closeButton}
+              onPress={() => setShowTokenModal(false)}
+            >
+              <Svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                <Path
+                  d="M18 6L6 18M6 6L18 18"
+                  stroke="#000000"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                />
+              </Svg>
+            </TouchableOpacity>
+
+            {/* Title */}
+            <Text style={styles.modalTitle}>🔥 Mua liền – Dùng ngay!</Text>
+            <Text style={styles.modalSubtitle}>
+              Mở khóa trải nghiệm sáng tạo chỉ với vài Token ✨
+            </Text>
+
+            {/* Token Packages */}
+            <View style={styles.packagesContainer}>
+              <View style={styles.packageRow}>
+                <Text style={styles.packagePrice}>39.000VNĐ/ 5 Token AI</Text>
+                <TouchableOpacity style={styles.buyNowButton} activeOpacity={0.8}>
+                  <Text style={styles.buyNowText}>Mua ngay</Text>
+                </TouchableOpacity>
+              </View>
+
+              <View style={styles.packageRow}>
+                <Text style={styles.packagePrice}>59.000VNĐ/ 10 Token AI</Text>
+                <TouchableOpacity style={styles.buyNowButton} activeOpacity={0.8}>
+                  <Text style={styles.buyNowText}>Mua ngay</Text>
+                </TouchableOpacity>
+              </View>
+
+              <View style={styles.packageRow}>
+                <Text style={styles.packagePrice}>119.000VNĐ/ 20 Token AI</Text>
+                <TouchableOpacity style={styles.buyNowButton} activeOpacity={0.8}>
+                  <Text style={styles.buyNowText}>Mua ngay</Text>
+                </TouchableOpacity>
+              </View>
+
+              <View style={styles.packageRow}>
+                <Text style={styles.packagePrice}>169.000VNĐ/ 50 Token AI</Text>
+                <TouchableOpacity style={styles.buyNowButton} activeOpacity={0.8}>
+                  <Text style={styles.buyNowText}>Mua ngay</Text>
+                </TouchableOpacity>
+              </View>
+            </View>
+          </View>
+        </View>
+      </Modal>
     </View>
   );
 };
@@ -363,6 +436,87 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(255, 255, 255, 0.2)',
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalContent: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 20,
+    width: '90%',
+    maxWidth: 400,
+    padding: 24,
+    position: 'relative',
+    ...Platform.select({
+      ios: {
+        shadowColor: '#000',
+        shadowOffset: {
+          width: 0,
+          height: 4,
+        },
+        shadowOpacity: 0.3,
+        shadowRadius: 10,
+      },
+      android: {
+        elevation: 10,
+      },
+    }),
+  },
+  closeButton: {
+    position: 'absolute',
+    top: 16,
+    right: 16,
+    width: 32,
+    height: 32,
+    alignItems: 'center',
+    justifyContent: 'center',
+    zIndex: 1,
+  },
+  modalTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#111827',
+    marginBottom: 8,
+    marginTop: 8,
+  },
+  modalSubtitle: {
+    fontSize: 14,
+    color: '#6B7280',
+    marginBottom: 24,
+    lineHeight: 20,
+  },
+  packagesContainer: {
+    gap: 16,
+  },
+  packageRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 12,
+    borderBottomWidth: 1,
+    borderBottomColor: '#E5E7EB',
+  },
+  packagePrice: {
+    fontSize: 16,
+    color: '#111827',
+    fontWeight: '500',
+    flex: 1,
+  },
+  buyNowButton: {
+    backgroundColor: '#F472B6',
+    borderRadius: 12,
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    minWidth: 100,
+    alignItems: 'center',
+  },
+  buyNowText: {
+    color: '#FFFFFF',
+    fontSize: 14,
+    fontWeight: '600',
   },
 });
 

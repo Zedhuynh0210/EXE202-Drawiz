@@ -13,6 +13,7 @@ import KidsModeScreen from './components/KidsMode/KidsModeScreen';
 import KidsRegisterScreen from './components/KidsMode/KidsRegisterScreen';
 import KidsCreateAccountScreen from './components/KidsMode/KidsCreateAccountScreen';
 import KidsHomeScreen from './components/KidsMode/KidsHomeScreen';
+import ChallengeScreen from './components/KidsMode/ChallengeScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -37,6 +38,7 @@ export default function App() {
         <Stack.Screen name="KidsRegister" component={KidsRegisterScreen} />
         <Stack.Screen name="KidsCreateAccount" component={KidsCreateAccountScreen} />
         <Stack.Screen name="KidsHome" component={KidsHomeScreen} />
+        <Stack.Screen name="Challenge" component={ChallengeScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
